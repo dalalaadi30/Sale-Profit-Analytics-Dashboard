@@ -19,7 +19,7 @@ This project addresses these gaps by building a validated analytics pipeline wit
 
 ## Tools & Technologies
 - **MySQL** – Data storage, querying, and validation
--**Alteryx** -- For building data pipelines and Risk assesment metric.
+- **Alteryx** -- For building data pipelines and Risk assesment metric.
 - **SQL** – KPI calculations and data quality checks
 - **Power BI** – Interactive dashboard and visual analytics
 - **UAT Framework** – Business validation and sign-off
